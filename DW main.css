@@ -17,3 +17,13 @@ img {
     transform: rotateY(360deg);
   }
 }
+
+#list1 {
+    width: 105px;
+    border: 1px solid white;
+    margin: 0; 
+}
+
+#options1 {
+  color: white
+}
